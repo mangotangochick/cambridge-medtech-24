@@ -1,8 +1,8 @@
 # Welcome to the MedTech Conference Workshop Repository!
 Cambridge Medtech Conference Workshops 2024
 
-# Intermediate Workshop Resources
-* intermediate_workshop.ipynb is the workshop file for the intermediate workshop run by David Tyrell.
+# Beginner Workshop Resources
+* beginner_workshop.ipynb is the workshop file for the beginner workshop run by David Tyrell.
   
 # Advanced Workshop Resources
 * advanced_workshop.ipynb is the workshop file for the advanced workshop run by Charles Britton and Frances Eslabra.
